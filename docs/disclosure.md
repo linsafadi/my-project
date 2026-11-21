@@ -20,4 +20,5 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
+- W02 · I used Manus AI and Claude. · Used for: Manus for editing the english in my propsal adn Claude to help me set up. · Checked by: myself
 
